@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "start:api": "json-server --watch server/db.json --port 3000",
+    "start:api": "json-server --watch db.json --port 3000",
     "start": "node server/index.js"
   },
   "private": true,
