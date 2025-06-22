@@ -1,9 +1,9 @@
 # TaskTrackerDemo
 
 
-This is a full-stack task tracking application built as part of an interview assignment. 
-It demonstrates using **Angular** for task input and **React** for task display,
-sharing a mock backend via **JSON Server** in an **Nx monorepo**.
+This is a task tracking application. It demonstrates using **Angular** 
+for task input and **React** for task display, sharing a mock backend 
+via **JSON Server** in an **Nx monorepo**.
 
 ## 🛠 Tech Stack
 
