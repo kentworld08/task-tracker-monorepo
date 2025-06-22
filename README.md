@@ -1,8 +1,7 @@
-# TaskTrackerDemo
+# Task Tracker Demo
 
-
-This is a task tracking application. It demonstrates using **Angular** 
-for task input and **React** for task display, sharing a mock backend 
+This is a task tracking application. It demonstrates using **Angular**
+for task input and **React** for task display, sharing a mock backend
 via **JSON Server** in an **Nx monorepo**.
 
 ## 🛠 Tech Stack
@@ -20,4 +19,4 @@ via **JSON Server** in an **Nx monorepo**.
 
 ```bash
 npm run start:api
-
+```
